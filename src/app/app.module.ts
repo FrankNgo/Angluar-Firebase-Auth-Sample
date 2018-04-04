@@ -14,11 +14,12 @@ import { routes } from './app.routes';
 
 // Must export the config
 export const firebaseConfig = {
-  apiKey: 'AIzaSyAaTLLTBfT8-tlCXOKlp4LrwQzhVWjbM1Q',
-  authDomain: 'angular-pre.firebaseapp.com',
-  databaseURL: 'https://angular-pre.firebaseio.com',
-  storageBucket: 'angular-pre.appspot.com',
-  messagingSenderId: '796422970338'
+apiKey: "AIzaSyAAkZ3i_og3obMsOwv-iJ2Xh2BPM4WDpQk",
+authDomain: "online-store-ee567.firebaseapp.com",
+databaseURL: "https://online-store-ee567.firebaseio.com",
+projectId: "online-store-ee567",
+storageBucket: "online-store-ee567.appspot.com",
+messagingSenderId: "254322082801"
 };
 
 @NgModule({
